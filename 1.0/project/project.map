@@ -1,0 +1,1577 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o (__aeabi_fmul)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o (__aeabi_fsub)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o (__aeabi_fdiv)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o (__aeabi_f2uiz)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+frequency           0x4               C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+pll                 0x4               C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+read_data           0x5               C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .bss           0x00000000        0x1 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .text          0x00000000      0x18c C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_info    0x00000000      0x52a C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_abbrev  0x00000000      0x1a7 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_line    0x00000000      0x283 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_str     0x00000000      0x3de C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .debug_frame   0x00000000       0xd8 C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+ .text          0x00000000      0xa00 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_info    0x00000000      0xc18 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1d5 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_line    0x00000000      0x61e C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_str     0x00000000      0x721 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .debug_frame   0x00000000      0x5a4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ .text          0x00000000      0x1c0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_info    0x00000000      0x81b C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x19a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_line    0x00000000      0x243 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_str     0x00000000      0x5db C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .debug_frame   0x00000000      0x1c4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+ .text          0x00000000     0x1188 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_info    0x00000000      0xc48 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x238 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_line    0x00000000      0x8ce C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_str     0x00000000      0x754 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .debug_frame   0x00000000      0x3f8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+ .text          0x00000000      0x28c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_info    0x00000000      0x453 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x1ef C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_line    0x00000000      0x316 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_str     0x00000000      0x39c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .debug_frame   0x00000000      0x224 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+ .text          0x00000000       0xc8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_info    0x00000000      0x214 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x141 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_line    0x00000000      0x206 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_str     0x00000000      0x261 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .debug_frame   0x00000000       0xe8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+ .text          0x00000000      0x300 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ee C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_line    0x00000000      0x33b C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_str     0x00000000      0x3d5 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .debug_frame   0x00000000      0x1e4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+ .text          0x00000000       0x6c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x164 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000      0x10b C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x1ca C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x218 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x78 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+ .text          0x00000000      0x3f8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_info    0x00000000      0x4ad C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x1a8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_line    0x00000000      0x3c7 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_str     0x00000000      0x3dd C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .debug_frame   0x00000000      0x1c8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+ .text          0x00000000      0x218 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_info    0x00000000      0x375 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x18e C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_line    0x00000000      0x2ff C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_str     0x00000000      0x36f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .debug_frame   0x00000000      0x148 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+ .text          0x00000000      0x954 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_info    0x00000000      0x81a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x1ca C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_line    0x00000000      0x5d2 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_str     0x00000000      0x60e C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .debug_frame   0x00000000      0x410 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+ .text          0x00000000      0x950 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x97f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x1c3 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x7ef C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7a0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x300 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .text          0x00000000      0x92c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_info    0x00000000      0xba4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1b9 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x53f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_str     0x00000000      0x68c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x530 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+ .text          0x00000000       0xc4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x218 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x14a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x1ed C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x282 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0xf0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+ .text          0x00000000      0x1c4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_info    0x00000000      0x46f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x1ea C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_line    0x00000000      0x254 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_str     0x00000000      0x338 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .debug_frame   0x00000000      0x19c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .text          0x00000000      0x2bc C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_info    0x00000000      0x46a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1c8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_line    0x00000000      0x2d9 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_str     0x00000000      0x3c8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x214 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+ .text          0x00000000      0x504 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_info    0x00000000      0x85c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1ee C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_line    0x00000000      0x44f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_str     0x00000000      0x656 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x490 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+ .text          0x00000000      0x6d0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_info    0x00000000      0x978 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1d5 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_line    0x00000000      0x4b1 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_str     0x00000000      0x623 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .debug_frame   0x00000000      0x3a0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+ .text          0x00000000     0x1d94 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_info    0x00000000     0x1e06 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x1ef C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_line    0x00000000      0xc6f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_str     0x00000000      0xe03 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .debug_frame   0x00000000      0xe2c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+ .text          0x00000000      0x8dc C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_info    0x00000000      0xa79 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x1b7 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_line    0x00000000      0x554 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_str     0x00000000      0x6b6 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .debug_frame   0x00000000      0x490 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+ .text          0x00000000      0x118 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x246 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x148 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x217 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x283 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .comment       0x00000000       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .debug_frame   0x00000000      0x12c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .data          0x00000000        0x0 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .bss           0x00000000        0x0 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .text          0x00000000       0x14 ./startup/startup_stm32f10x_hd.o
+ .data          0x00000000        0x0 ./startup/startup_stm32f10x_hd.o
+ .bss           0x00000000        0x0 ./startup/startup_stm32f10x_hd.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000      0x168 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+LOAD C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+LOAD C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+LOAD C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+LOAD C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+LOAD C:\Users\geekchun\Desktop\OK\user\src\main.o
+LOAD C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+LOAD ./startup/startup_stm32f10x_hd.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+END GROUP
+                0x00000080                malloc_getpagesize_P = 0x80
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x20010000                _estack = 0x20010000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000200                _Min_Stack_Size = 0x200
+
+.isr_vector     0x08000000      0x1e4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1e4 ./startup/startup_stm32f10x_hd.o
+                0x08000000                g_pfnVectors
+                0x080001e4                . = ALIGN (0x4)
+
+.eh_frame       0x080001e4        0x0
+ .eh_frame      0x080001e4        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.text           0x080001e4     0x1d24
+                0x080001e4                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001e4       0x40 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x08000224      0x258 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+                0x08000224                SystemInit
+                0x0800028c                SystemCoreClockUpdate
+ .text          0x0800047c       0x6e C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+                0x0800047c                delay_us
+                0x080004b2                delay_ms
+ *fill*         0x080004ea        0x2 
+ .text          0x080004ec      0x320 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                0x080004ec                SDA_IN
+                0x08000518                SDA_OUT
+                0x08000544                IIC_Init
+                0x08000580                IIC_Start
+                0x080005bc                IIC_Stop
+                0x080005fc                IIC_Send_Byte
+                0x08000680                IIC_Read_Byte
+                0x080006fc                IIC_Ack
+                0x08000754                IIC_NAck
+                0x080007a4                IIC_Wait_Ack
+ .text          0x0800080c      0x338 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+                0x0800080c                TEA5767_Write
+                0x08000854                Get_PLL
+                0x080008d0                Get_Frequency
+                0x08000960                TEA5767_Read
+                0x080009d8                Set_Frequency
+                0x08000a2c                Search
+                0x08000acc                Auto_Search
+ .text          0x08000b44      0x5d8 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                0x08000b44                GPIO_DeInit
+                0x08000c28                GPIO_AFIODeInit
+                0x08000c40                GPIO_Init
+                0x08000db8                GPIO_StructInit
+                0x08000dde                GPIO_ReadInputDataBit
+                0x08000e10                GPIO_ReadInputData
+                0x08000e28                GPIO_ReadOutputDataBit
+                0x08000e5a                GPIO_ReadOutputData
+                0x08000e72                GPIO_SetBits
+                0x08000e8e                GPIO_ResetBits
+                0x08000eaa                GPIO_WriteBit
+                0x08000ed8                GPIO_Write
+                0x08000ef4                GPIO_PinLockConfig
+                0x08000f36                GPIO_EventOutputConfig
+                0x08000f80                GPIO_EventOutputCmd
+                0x08000fa0                GPIO_PinRemapConfig
+                0x08001080                GPIO_EXTILineConfig
+                0x08001100                GPIO_ETH_MediaInterfaceConfig
+ .text          0x0800111c      0x7dc C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                0x0800111c                RCC_DeInit
+                0x08001178                RCC_HSEConfig
+                0x080011d4                RCC_WaitForHSEStartUp
+                0x08001224                RCC_AdjustHSICalibrationValue
+                0x08001260                RCC_HSICmd
+                0x08001280                RCC_PLLConfig
+                0x080012bc                RCC_PLLCmd
+                0x080012dc                RCC_SYSCLKConfig
+                0x08001314                RCC_GetSYSCLKSource
+                0x08001330                RCC_HCLKConfig
+                0x08001368                RCC_PCLK1Config
+                0x080013a0                RCC_PCLK2Config
+                0x080013d8                RCC_ITConfig
+                0x08001424                RCC_USBCLKConfig
+                0x08001440                RCC_ADCCLKConfig
+                0x08001478                RCC_LSEConfig
+                0x080014b8                RCC_LSICmd
+                0x080014d8                RCC_RTCCLKConfig
+                0x080014fc                RCC_RTCCLKCmd
+                0x0800151c                RCC_GetClocksFreq
+                0x08001688                RCC_AHBPeriphClockCmd
+                0x080016c4                RCC_APB2PeriphClockCmd
+                0x08001700                RCC_APB1PeriphClockCmd
+                0x0800173c                RCC_APB2PeriphResetCmd
+                0x08001778                RCC_APB1PeriphResetCmd
+                0x080017b4                RCC_BackupResetCmd
+                0x080017d4                RCC_ClockSecuritySystemCmd
+                0x080017f4                RCC_MCOConfig
+                0x08001814                RCC_GetFlagStatus
+                0x08001888                RCC_ClearFlag
+                0x080018a4                RCC_GetITStatus
+                0x080018d8                RCC_ClearITPendingBit
+ .text          0x080018f8       0x14 C:\Users\geekchun\Desktop\OK\user\src\main.o
+                0x080018f8                main
+ .text          0x0800190c       0x54 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+                0x0800190c                NMI_Handler
+                0x08001918                HardFault_Handler
+                0x0800191e                MemManage_Handler
+                0x08001924                BusFault_Handler
+                0x0800192a                UsageFault_Handler
+                0x08001930                SVC_Handler
+                0x0800193c                DebugMon_Handler
+                0x08001948                PendSV_Handler
+                0x08001954                SysTick_Handler
+ .text          0x08001960      0x21c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x08001960                __aeabi_frsub
+                0x08001968                __subsf3
+                0x08001968                __aeabi_fsub
+                0x0800196c                __aeabi_fadd
+                0x0800196c                __addsf3
+                0x08001acc                __aeabi_ui2f
+                0x08001acc                __floatunsisf
+                0x08001ad4                __aeabi_i2f
+                0x08001ad4                __floatsisf
+                0x08001af0                __aeabi_ul2f
+                0x08001af0                __floatundisf
+                0x08001b00                __aeabi_l2f
+                0x08001b00                __floatdisf
+ .text          0x08001b7c      0x2a0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                0x08001b7c                __mulsf3
+                0x08001b7c                __aeabi_fmul
+                0x08001ce4                __aeabi_fdiv
+                0x08001ce4                __divsf3
+ .text          0x08001e1c       0x40 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x08001e1c                __fixunssfsi
+                0x08001e1c                __aeabi_f2uiz
+ *(.text*)
+ .text.Reset_Handler
+                0x08001e5c       0x48 ./startup/startup_stm32f10x_hd.o
+                0x08001e5c                Reset_Handler
+ .text.Default_Handler
+                0x08001ea4        0x2 ./startup/startup_stm32f10x_hd.o
+                0x08001ea4                EXTI2_IRQHandler
+                0x08001ea4                TIM8_TRG_COM_IRQHandler
+                0x08001ea4                TIM8_CC_IRQHandler
+                0x08001ea4                TIM1_CC_IRQHandler
+                0x08001ea4                TIM6_IRQHandler
+                0x08001ea4                PVD_IRQHandler
+                0x08001ea4                SDIO_IRQHandler
+                0x08001ea4                EXTI3_IRQHandler
+                0x08001ea4                EXTI0_IRQHandler
+                0x08001ea4                I2C2_EV_IRQHandler
+                0x08001ea4                ADC1_2_IRQHandler
+                0x08001ea4                SPI1_IRQHandler
+                0x08001ea4                TAMPER_IRQHandler
+                0x08001ea4                TIM8_UP_IRQHandler
+                0x08001ea4                DMA2_Channel2_IRQHandler
+                0x08001ea4                DMA1_Channel4_IRQHandler
+                0x08001ea4                USART3_IRQHandler
+                0x08001ea4                RTC_IRQHandler
+                0x08001ea4                DMA1_Channel7_IRQHandler
+                0x08001ea4                CAN1_RX1_IRQHandler
+                0x08001ea4                UART5_IRQHandler
+                0x08001ea4                ADC3_IRQHandler
+                0x08001ea4                TIM4_IRQHandler
+                0x08001ea4                DMA2_Channel1_IRQHandler
+                0x08001ea4                I2C1_EV_IRQHandler
+                0x08001ea4                DMA1_Channel6_IRQHandler
+                0x08001ea4                UART4_IRQHandler
+                0x08001ea4                TIM3_IRQHandler
+                0x08001ea4                RCC_IRQHandler
+                0x08001ea4                TIM1_TRG_COM_IRQHandler
+                0x08001ea4                DMA1_Channel1_IRQHandler
+                0x08001ea4                Default_Handler
+                0x08001ea4                EXTI15_10_IRQHandler
+                0x08001ea4                TIM7_IRQHandler
+                0x08001ea4                TIM5_IRQHandler
+                0x08001ea4                EXTI9_5_IRQHandler
+                0x08001ea4                SPI2_IRQHandler
+                0x08001ea4                DMA1_Channel5_IRQHandler
+                0x08001ea4                EXTI4_IRQHandler
+                0x08001ea4                USB_LP_CAN1_RX0_IRQHandler
+                0x08001ea4                USB_HP_CAN1_TX_IRQHandler
+                0x08001ea4                DMA1_Channel3_IRQHandler
+                0x08001ea4                FSMC_IRQHandler
+                0x08001ea4                TIM1_UP_IRQHandler
+                0x08001ea4                WWDG_IRQHandler
+                0x08001ea4                TIM2_IRQHandler
+                0x08001ea4                TIM1_BRK_IRQHandler
+                0x08001ea4                EXTI1_IRQHandler
+                0x08001ea4                RTCAlarm_IRQHandler
+                0x08001ea4                DMA2_Channel4_5_IRQHandler
+                0x08001ea4                USART2_IRQHandler
+                0x08001ea4                I2C2_ER_IRQHandler
+                0x08001ea4                DMA1_Channel2_IRQHandler
+                0x08001ea4                TIM8_BRK_IRQHandler
+                0x08001ea4                CAN1_SCE_IRQHandler
+                0x08001ea4                FLASH_IRQHandler
+                0x08001ea4                USART1_IRQHandler
+                0x08001ea4                SPI3_IRQHandler
+                0x08001ea4                I2C1_ER_IRQHandler
+                0x08001ea4                USBWakeUp_IRQHandler
+                0x08001ea4                DMA2_Channel3_IRQHandler
+ *fill*         0x08001ea6        0x2 
+ .text.__libc_init_array
+                0x08001ea8       0x48 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                0x08001ea8                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x08001ef0        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001ef0        0x0 linker stubs
+ *(.init)
+ .init          0x08001ef0        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x08001ef0                _init
+ .init          0x08001ef4        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001efc        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x08001efc                _fini
+ .fini          0x08001f00        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x08001f08                . = ALIGN (0x4)
+                0x08001f08                _etext = .
+
+.vfp11_veneer   0x08001f08        0x0
+ .vfp11_veneer  0x08001f08        0x0 linker stubs
+
+.v4_bx          0x08001f08        0x0
+ .v4_bx         0x08001f08        0x0 linker stubs
+
+.iplt           0x08001f08        0x0
+ .iplt          0x08001f08        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rel.dyn        0x08001f08        0x0
+ .rel.iplt      0x08001f08        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001f08        0x0
+                0x08001f08                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001f08                __exidx_end = .
+
+.ARM.attributes
+                0x08001f08       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08001f08       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x08001f25       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x08001f52       0x2d C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .ARM.attributes
+                0x08001f7f       0x2d C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .ARM.attributes
+                0x08001fac       0x2d C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .ARM.attributes
+                0x08001fd9       0x2d C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .ARM.attributes
+                0x08002006       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .ARM.attributes
+                0x08002033       0x2d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .ARM.attributes
+                0x08002060       0x2d C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .ARM.attributes
+                0x0800208d       0x2d C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .ARM.attributes
+                0x080020ba       0x21 ./startup/startup_stm32f10x_hd.o
+ .ARM.attributes
+                0x080020db       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x08002108       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x08002125       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x08002142       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x0800215f       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+.preinit_array  0x08001f08        0x0
+                0x08001f08                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001f08                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001f08        0x4
+                0x08001f08                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001f08        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001f0c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08001f0c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x08001f0c        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08001f10                _sidata = .
+
+.data           0x20000000       0x30 load address 0x08001f10
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014        0x5 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+                0x20000014                radio_data
+ *fill*         0x20000019        0x3 
+ .data          0x2000001c       0x14 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ *(.data*)
+                0x20000030                . = ALIGN (0x4)
+                0x20000030                _edata = .
+
+.igot.plt       0x20000030        0x0 load address 0x08001f40
+ .igot.plt      0x20000030        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000030                . = ALIGN (0x4)
+
+.bss            0x20000030       0x2c load address 0x08001f40
+                0x20000030                _sbss = .
+                0x20000030                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000030       0x1c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x2000004c        0xd C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+                0x2000004c                frequency
+                0x20000050                pll
+                0x20000054                read_data
+                0x2000005c                . = ALIGN (0x4)
+ *fill*         0x20000059        0x3 
+                0x2000005c                _ebss = .
+                0x2000005c                __bss_end__ = _ebss
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x2000005c      0x200 load address 0x08001f6c
+                0x2000005c                . = ALIGN (0x4)
+                0x2000005c                . = (. + _Min_Heap_Size)
+                0x2000025c                . = (. + _Min_Stack_Size)
+ *fill*         0x2000005c      0x200 
+                0x2000025c                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(./project/output/TEA5767.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x1e19
+ .debug_info    0x00000000      0x487 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .debug_info    0x00000487      0x129 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .debug_info    0x000005b0      0x37b C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .debug_info    0x0000092b      0x273 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .debug_info    0x00000b9e      0x74c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .debug_info    0x000012ea      0x911 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .debug_info    0x00001bfb       0xb8 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .debug_info    0x00001cb3      0x144 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .debug_info    0x00001df7       0x22 ./startup/startup_stm32f10x_hd.o
+
+.debug_abbrev   0x00000000      0xa67
+ .debug_abbrev  0x00000000      0x1c1 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .debug_abbrev  0x000001c1       0xcd C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .debug_abbrev  0x0000028e      0x196 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .debug_abbrev  0x00000424      0x127 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .debug_abbrev  0x0000054b      0x20f C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .debug_abbrev  0x0000075a      0x1f9 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .debug_abbrev  0x00000953       0x82 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .debug_abbrev  0x000009d5       0x80 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .debug_abbrev  0x00000a55       0x12 ./startup/startup_stm32f10x_hd.o
+
+.debug_aranges  0x00000000      0x128
+ .debug_aranges
+                0x00000000       0x20 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .debug_aranges
+                0x00000020       0x20 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .debug_aranges
+                0x00000040       0x20 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .debug_aranges
+                0x00000060       0x20 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .debug_aranges
+                0x00000080       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .debug_aranges
+                0x000000a0       0x20 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .debug_aranges
+                0x000000c0       0x20 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .debug_aranges
+                0x000000e0       0x20 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .debug_aranges
+                0x00000100       0x28 ./startup/startup_stm32f10x_hd.o
+
+.debug_line     0x00000000     0x1887
+ .debug_line    0x00000000      0x2e5 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .debug_line    0x000002e5      0x1d5 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .debug_line    0x000004ba      0x2ef C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .debug_line    0x000007a9      0x2ee C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .debug_line    0x00000a97      0x4af C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .debug_line    0x00000f46      0x57c C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .debug_line    0x000014c2      0x189 C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .debug_line    0x0000164b      0x1bf C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .debug_line    0x0000180a       0x7d ./startup/startup_stm32f10x_hd.o
+
+.debug_str      0x00000000      0xcf2
+ .debug_str     0x00000000      0x28b C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+                                0x2f2 (size before relaxing)
+ .debug_str     0x0000028b       0x47 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+                                0x1bb (size before relaxing)
+ .debug_str     0x000002d2      0x1de C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                0x364 (size before relaxing)
+ .debug_str     0x000004b0       0xbd C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+                                0x240 (size before relaxing)
+ .debug_str     0x0000056d      0x27d C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                0x53f (size before relaxing)
+ .debug_str     0x000007ea      0x3e2 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                0x640 (size before relaxing)
+ .debug_str     0x00000bcc       0x32 C:\Users\geekchun\Desktop\OK\user\src\main.o
+                                0x192 (size before relaxing)
+ .debug_str     0x00000bfe       0xc5 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+                                0x225 (size before relaxing)
+ .debug_str     0x00000cc3       0x2f ./startup/startup_stm32f10x_hd.o
+                                 0x4c (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .comment       0x00000079       0x7a C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+
+.debug_frame    0x00000000      0xd34
+ .debug_frame   0x00000000       0x98 C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+ .debug_frame   0x00000098       0x60 C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+ .debug_frame   0x000000f8      0x158 C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+ .debug_frame   0x00000250      0x110 C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+ .debug_frame   0x00000360      0x2d0 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+ .debug_frame   0x00000630      0x4f4 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+ .debug_frame   0x00000b24       0x2c C:\Users\geekchun\Desktop\OK\user\src\main.o
+ .debug_frame   0x00000b50      0x110 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+ .debug_frame   0x00000c60       0x2c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000c8c       0x4c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000cd8       0x38 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000d10       0x24 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ./startup/startup_stm32f10x_hd.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+ADC3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+ADC_AnalogWatchdogCmd                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_AnalogWatchdogThresholdsConfig                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_AutoInjectedConvCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_DMACmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_DiscModeChannelCountConfig                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_DiscModeCmd                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigConvCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvCmd                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvConfig                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetCalibrationStatus                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetConversionValue                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetDualModeConversionValue                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetInjectedConversionValue                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetResetCalibrationStatus                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetSoftwareStartConvStatus                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_InjectedChannelConfig                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_InjectedDiscModeCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_InjectedSequencerLengthConfig                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_RegularChannelConfig                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_ResetCalibration                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_SetInjectedOffset                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_SoftwareStartConvCmd                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_SoftwareStartInjectedConvCmd                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_StartCalibration                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+ADC_TempSensorVrefintCmd                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+AHBPrescTable                                     C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+Auto_Search                                       C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+BKP_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_RTCOutputConfig                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_ReadBackupRegister                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_SetRTCCalibrationValue                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_TamperPinCmd                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_TamperPinLevelConfig                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BKP_WriteBackupRegister                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+BusFault_Handler                                  C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+CAN1_RX1_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+CAN1_SCE_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+CAN_CancelTransmit                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_DBGFreeze                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_FIFORelease                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_FilterInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_GetLSBTransmitErrorCounter                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_GetLastErrorCode                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_GetReceiveErrorCounter                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_MessagePending                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_OperatingModeRequest                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_Receive                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_SlaveStartBank                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_Sleep                                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_TTComModeCmd                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_Transmit                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_TransmitStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CAN_WakeUp                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+CEC_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_EndOfMessageCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_OwnAddressConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_ReceiveDataByte                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_SendDataByte                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_SetPrescaler                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CEC_StartOfMessage                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+CRC_CalcBlockCRC                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+CRC_CalcCRC                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+CRC_GetCRC                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+CRC_GetIDRegister                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+CRC_ResetDR                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+CRC_SetIDRegister                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_crc.o
+DAC_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_DMACmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_DualSoftwareTriggerCmd                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_GetDataOutputValue                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_SetChannel1Data                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_SetChannel2Data                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_SetDualChannelData                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_SoftwareTriggerCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DAC_WaveGenerationCmd                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+DBGMCU_Config                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+DBGMCU_GetDEVID                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+DBGMCU_GetREVID                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dbgmcu.o
+DMA1_Channel1_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel2_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel3_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel4_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel5_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel6_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel7_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel1_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel2_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel3_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel4_5_IRQHandler                        ./startup/startup_stm32f10x_hd.o
+DMA_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_GetCurrDataCounter                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_SetCurrDataCounter                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DMA_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dma.o
+DebugMon_Handler                                  C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+Default_Handler                                   ./startup/startup_stm32f10x_hd.o
+EXTI0_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI15_10_IRQHandler                              ./startup/startup_stm32f10x_hd.o
+EXTI1_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI2_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI3_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI4_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI9_5_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+EXTI_ClearFlag                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_ClearITPendingBit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_DeInit                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_GenerateSWInterrupt                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_GetFlagStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_GetITStatus                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_Init                                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+EXTI_StructInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_exti.o
+FLASH_ClearFlag                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_EnableWriteProtection                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_EraseAllBank1Pages                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_EraseAllPages                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_EraseOptionBytes                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_ErasePage                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetBank1Status                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetFlagStatus                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetPrefetchBufferStatus                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetReadOutProtectionStatus                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetUserOptionByte                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_GetWriteProtectionOptionByte                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_HalfCycleAccessCmd                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+FLASH_ITConfig                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_Lock                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_LockBank1                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_PrefetchBufferCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_ProgramHalfWord                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_ProgramOptionByteData                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_ProgramWord                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_ReadOutProtection                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_SetLatency                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_Unlock                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_UnlockBank1                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_UserOptionByteConfig                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_WaitForLastBank1Operation                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FLASH_WaitForLastOperation                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_flash.o
+FSMC_ClearFlag                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_ClearITPendingBit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_GetECC                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_GetFlagStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_GetITStatus                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+FSMC_ITConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDCmd                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDDeInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDECCCmd                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDInit                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDStructInit                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMCmd                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMDeInit                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMInit                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMStructInit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDCmd                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDDeInit                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDStructInit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_fsmc.o
+GPIO_AFIODeInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_DeInit                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_ETH_MediaInterfaceConfig                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_EXTILineConfig                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_EventOutputCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_EventOutputConfig                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_Init                                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+GPIO_PinLockConfig                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_PinRemapConfig                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_ReadInputData                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_ReadInputDataBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+GPIO_ReadOutputData                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_ReadOutputDataBit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_ResetBits                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+GPIO_SetBits                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+GPIO_StructInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_Write                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+GPIO_WriteBit                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+Get_Frequency                                     C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+Get_PLL                                           C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+HardFault_Handler                                 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+I2C1_ER_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C1_EV_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C2_ER_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C2_EV_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C_ARPCmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_AcknowledgeConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_CalculatePEC                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_CheckEvent                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_DMACmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_DMALastTransferCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_DualAddressCmd                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_FastModeDutyCycleConfig                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GeneralCallCmd                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GenerateSTART                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GenerateSTOP                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GetLastEvent                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_GetPEC                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_NACKPositionConfig                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_OwnAddress2Config                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_PECPositionConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_ReadRegister                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_ReceiveData                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_SMBusAlertConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_Send7bitAddress                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_SendData                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_SoftwareResetCmd                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_StretchClockCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2C_TransmitPEC                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+I2S_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+I2S_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+I2S_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+IIC_Ack                                           C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IIC_Init                                          C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\user\src\main.o
+IIC_NAck                                          C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+IIC_Read_Byte                                     C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IIC_Send_Byte                                     C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IIC_Start                                         C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IIC_Stop                                          C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IIC_Wait_Ack                                      C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+IWDG_Enable                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+IWDG_GetFlagStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+IWDG_ReloadCounter                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+IWDG_SetPrescaler                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+IWDG_SetReload                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+IWDG_WriteAccessCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_iwdg.o
+MemManage_Handler                                 C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+NMI_Handler                                       C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+NVIC_Init                                         C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+NVIC_PriorityGroupConfig                          C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+NVIC_SetVectorTable                               C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+NVIC_SystemLPConfig                               C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+PVD_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+PWR_BackupAccessCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_EnterSTANDBYMode                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_EnterSTOPMode                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_PVDCmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_PVDLevelConfig                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PWR_WakeUpPinCmd                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+PendSV_Handler                                    C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+RCC_ADCCLKConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_AHBPeriphClockCmd                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_APB1PeriphClockCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_APB1PeriphResetCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_pwr.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_dac.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_cec.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_can.o
+RCC_APB2PeriphClockCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+RCC_APB2PeriphResetCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_gpio.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_adc.o
+RCC_AdjustHSICalibrationValue                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_BackupResetCmd                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_bkp.o
+RCC_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_ClockSecuritySystemCmd                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_GetClocksFreq                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+                                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_i2c.o
+RCC_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_GetSYSCLKSource                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_HCLKConfig                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_HSEConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_HSICmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+RCC_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_LSEConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_LSICmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_MCOConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_PCLK1Config                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_PCLK2Config                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_PLLCmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_PLLConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_RTCCLKCmd                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_RTCCLKConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_SYSCLKConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_USBCLKConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RCC_WaitForHSEStartUp                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rcc.o
+RTCAlarm_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+RTC_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_EnterConfigMode                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_ExitConfigMode                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_GetCounter                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_GetDivider                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+RTC_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_SetAlarm                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_SetCounter                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_SetPrescaler                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_WaitForLastTask                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+RTC_WaitForSynchro                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_rtc.o
+Reset_Handler                                     ./startup/startup_stm32f10x_hd.o
+SDA_IN                                            C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+SDA_OUT                                           C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+SDIO_CEATAITCmd                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_ClearFlag                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_ClearITPendingBit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_ClockCmd                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_CmdStructInit                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_CommandCompletionCmd                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_DMACmd                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_DataConfig                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_DataStructInit                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_DeInit                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetCommandResponse                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetDataCounter                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetFIFOCount                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetFlagStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetITStatus                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetPowerState                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_GetResponse                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SDIO_ITConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_Init                                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_ReadData                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SendCEATACmd                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SendCommand                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SendSDIOSuspendCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SetPowerState                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SetSDIOOperation                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_SetSDIOReadWaitMode                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_StartSDIOReadWait                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_StopSDIOReadWait                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_StructInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SDIO_WriteData                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_sdio.o
+SPI1_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI2_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI_BiDirectionalLineConfig                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_CalculateCRC                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_DataSizeConfig                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_GetCRC                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_GetCRCPolynomial                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_ClearFlag                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_ClearITPendingBit                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_DMACmd                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_DeInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_GetFlagStatus                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_GetITStatus                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_ITConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_ReceiveData                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_I2S_SendData                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_Init                                          C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_NSSInternalSoftwareConfig                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_SSOutputCmd                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_StructInit                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SPI_TransmitCRC                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_spi.o
+SVC_Handler                                       C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+Search                                            C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+Set_Frequency                                     C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+                                                  C:\Users\geekchun\Desktop\OK\user\src\main.o
+SysTick_CLKSourceConfig                           C:\Users\geekchun\Desktop\OK\libraries\src\misc.o
+SysTick_Handler                                   C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+SystemCoreClock                                   C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+SystemCoreClockUpdate                             C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+SystemInit                                        C:\Users\geekchun\Desktop\OK\cmsis\src\system_stm32f10x.o
+                                                  ./startup/startup_stm32f10x_hd.o
+TAMPER_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+TEA5767_Read                                      C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+TEA5767_Write                                     C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+TIM1_BRK_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+TIM1_CC_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM1_TRG_COM_IRQHandler                           ./startup/startup_stm32f10x_hd.o
+TIM1_UP_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM2_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM4_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM5_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM6_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM7_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM8_BRK_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+TIM8_CC_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM8_TRG_COM_IRQHandler                           ./startup/startup_stm32f10x_hd.o
+TIM8_UP_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM_ARRPreloadConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_BDTRConfig                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_BDTRStructInit                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_CCPreloadControl                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_CCxCmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_CCxNCmd                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearFlag                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearITPendingBit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearOC1Ref                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearOC2Ref                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearOC3Ref                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ClearOC4Ref                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_Cmd                                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_CounterModeConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_CtrlPWMOutputs                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_DMACmd                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_DMAConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_DeInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ETRClockMode1Config                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ETRClockMode2Config                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ETRConfig                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_EncoderInterfaceConfig                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC1Config                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC2Config                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC3Config                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC4Config                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GenerateEvent                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetCapture1                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetCapture2                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetCapture3                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetCapture4                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetCounter                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetFlagStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetITStatus                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_GetPrescaler                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ICInit                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ICStructInit                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ITConfig                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_ITRxExternalClockConfig                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_InternalClockConfig                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC1FastConfig                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC1Init                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC1NPolarityConfig                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC1PolarityConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC1PreloadConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC2FastConfig                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC2Init                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC2NPolarityConfig                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC2PolarityConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC2PreloadConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC3FastConfig                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC3Init                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC3NPolarityConfig                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC3PolarityConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC3PreloadConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC4FastConfig                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC4Init                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC4PolarityConfig                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OC4PreloadConfig                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_OCStructInit                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_PWMIConfig                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_PrescalerConfig                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectCCDMA                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectCOM                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectHallSensor                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectInputTrigger                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectMasterSlaveMode                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectOCxM                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectOnePulseMode                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectOutputTrigger                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SelectSlaveMode                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetAutoreload                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetClockDivision                              C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetCompare1                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetCompare2                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetCompare3                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetCompare4                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetCounter                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetIC1Prescaler                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetIC2Prescaler                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetIC3Prescaler                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_SetIC4Prescaler                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_TIxExternalClockConfig                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_TimeBaseInit                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_TimeBaseStructInit                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_UpdateDisableConfig                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+TIM_UpdateRequestConfig                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_tim.o
+UART4_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+UART5_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+USART1_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART2_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART3_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART_ClearFlag                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ClearITPendingBit                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ClockInit                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ClockStructInit                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_Cmd                                         C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_DMACmd                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_DeInit                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_GetFlagStatus                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_GetITStatus                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_HalfDuplexCmd                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ITConfig                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_Init                                        C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_IrDACmd                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_IrDAConfig                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_LINBreakDetectLengthConfig                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_LINCmd                                      C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_OneBitMethodCmd                             C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_OverSampling8Cmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ReceiveData                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_ReceiverWakeUpCmd                           C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SendBreak                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SendData                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SetAddress                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SetGuardTime                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SetPrescaler                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SmartCardCmd                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_SmartCardNACKCmd                            C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_StructInit                                  C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USART_WakeUpConfig                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_usart.o
+USBWakeUp_IRQHandler                              ./startup/startup_stm32f10x_hd.o
+USB_HP_CAN1_TX_IRQHandler                         ./startup/startup_stm32f10x_hd.o
+USB_LP_CAN1_RX0_IRQHandler                        ./startup/startup_stm32f10x_hd.o
+UsageFault_Handler                                C:\Users\geekchun\Desktop\OK\user\src\stm32f10x_it.o
+WWDG_ClearFlag                                    C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_DeInit                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_Enable                                       C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_EnableIT                                     C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_GetFlagStatus                                C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+WWDG_SetCounter                                   C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_SetPrescaler                                 C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+WWDG_SetWindowValue                               C:\Users\geekchun\Desktop\OK\libraries\src\stm32f10x_wwdg.o
+__addsf3                                          c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__aeabi_f2uiz                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_fadd                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_fdiv                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_fmul                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_frsub                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__aeabi_fsub                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_i2f                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__aeabi_l2f                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__aeabi_ui2f                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+__aeabi_ul2f                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__bss_end__                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__bss_start__                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__call_exitprocs                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__divsf3                                          c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+__dso_handle                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__fixunssfsi                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+__floatdisf                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__floatsisf                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__floatundisf                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__floatunsisf                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+__init_array_end                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__libc_init_array                                 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                                                  ./startup/startup_stm32f10x_hd.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__mulsf3                                          c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_mulsf3.o)
+__preinit_array_end                               c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__sf_fake_stderr                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__stack                                           c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__subsf3                                          c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a(_arm_addsubsf3.o)
+_ebss                                             ./startup/startup_stm32f10x_hd.o
+_edata                                            ./startup/startup_stm32f10x_hd.o
+_estack                                           ./startup/startup_stm32f10x_hd.o
+_exit                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+_global_impure_ptr                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+_init                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_sbss                                             ./startup/startup_stm32f10x_hd.o
+_sdata                                            ./startup/startup_stm32f10x_hd.o
+_sidata                                           ./startup/startup_stm32f10x_hd.o
+_start                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+atexit                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+delay_ms                                          C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+delay_us                                          C:\Users\geekchun\Desktop\OK\driver\src\delay.o
+                                                  C:\Users\geekchun\Desktop\OK\driver\src\iic.o
+exit                                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+frequency                                         C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+g_pfnVectors                                      ./startup/startup_stm32f10x_hd.o
+hardware_init_hook                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+key_down                                          C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+main                                              C:\Users\geekchun\Desktop\OK\user\src\main.o
+                                                  ./startup/startup_stm32f10x_hd.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+memset                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+pll                                               C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+radio_data                                        C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+read_data                                         C:\Users\geekchun\Desktop\OK\driver\src\TEA5767.o
+software_init_hook                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
